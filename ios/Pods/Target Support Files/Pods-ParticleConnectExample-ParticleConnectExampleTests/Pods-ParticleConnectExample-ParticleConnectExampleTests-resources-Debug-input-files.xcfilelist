@@ -1,0 +1,7 @@
+${PODS_ROOT}/Target Support Files/Pods-ParticleConnectExample-ParticleConnectExampleTests/Pods-ParticleConnectExample-ParticleConnectExampleTests-resources.sh
+${PODS_ROOT}/ConnectWalletConnectAdapter/XCFrameworks/ConnectWalletConnectAdapter/ConnectWalletConnectAdapter.bundle
+${PODS_ROOT}/ParticleNetworkBase/XCFrameworks/ParticleNetworkBase/ParticleNetworkBase.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/React-Core/AccessibilityResources.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/SDWebImage/SDWebImage.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/SwiftMessages/SwiftMessages.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/WalletConnectSwiftV2/WalletConnect_WalletConnectRelay.bundle
